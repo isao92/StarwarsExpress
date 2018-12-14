@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/isao92/StarwarsExpress/issues"
   },
-  "homepage": "https://github.com/isao92/StarwarsExpress#readme"
+  "homepage": "https://github.com/isao92/StarwarsExpress#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
